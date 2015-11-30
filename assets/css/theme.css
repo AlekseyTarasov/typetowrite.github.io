@@ -1,0 +1,291 @@
+/* Layout */
+
+body {
+	font: 12px 'Open Sans', sans-serif;
+}
+
+.wrapper {
+	min-height: 100%;
+  width: 100%;
+    -moz-hyphens: auto;
+    word-wrap: break-word;
+}
+
+
+/* Toggle  */
+
+.stickyanchor{
+	position: fixed !important;
+	top: 5%;
+  left: 6%;
+  width: 20px;
+  margin: 20px 0px 0px 42px;
+  cursor: pointer;
+}
+
+.stickyanchor div {
+	height: 2px;
+	background: #000;
+	margin: 4px auto;
+	transition: all 0.3s;
+}
+
+.menu {
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(255,255,255,0.8);
+  display: none;
+  z-index: 1;
+
+}
+
+.menu.is-visible {
+  display: block;
+}
+
+.i-text{
+  width: 20em;
+  margin: 4em 0px 0px 2em;
+  text-align: left;
+}
+
+.i-text ul {
+  list-style-type: none;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 11px;
+  padding: 0;
+  margin: 0 auto;
+}
+
+.i-text a {
+  text-decoration: none;
+  color: #000;
+}
+
+.i-text a:hover {
+  text-decoration: line-through;
+    -webkit-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    transition: all .15s linear;
+}
+
+.close {
+  position: absolute;
+  text-indent: -9999px;
+  top: 8px;
+  right: 8px;
+  width: 30px;
+  height: 30px;
+}
+
+.close::before,
+.close::after {
+  content: '';
+  position: absolute;
+  top: 12px;
+  width: 14px;
+  height: 3px;
+  background-color: #000;
+}
+
+.close::before {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+  left: 8px;
+}
+
+.close::after {
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  right: 8px;
+}
+
+.is-visible .menu {
+  -webkit-transform: translateY(0);
+  -moz-transform: translateY(0);
+  -ms-transform: translateY(0);
+  -o-transform: translateY(0);
+  transform: translateY(0);
+}
+
+.is-hide{
+  display: none;
+}
+
+.is-overflow{
+overflow: hidden;
+}
+
+
+/* Header */
+
+.header {
+	margin: 0px;
+	color: #333;
+	text-align: center;
+	padding: 2.5em 0px 4em 0px;
+}
+
+.header h3{
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	font: 11px sans-serif;
+	font-weight: 600;
+	padding: 0;
+	margin: 0;
+}
+
+
+/* Middle */
+
+.content {
+  margin: 0 auto;
+  padding: 0 3em;
+  max-width: 700px;
+  margin-bottom: 40px;
+}
+
+.post{
+  line-height: 1.6em;
+  padding-bottom: 2em;
+}
+
+.post-title {
+  font-size: 16px;
+  line-height: normal;
+  margin: 0;
+  padding: 0;
+}
+
+.post-date {
+  font-weight: 300;
+  font-size: 11px;
+  color: #888;
+  padding: 0px 0px 1em 0px;
+  margin: 0;
+}
+
+.post-content img {
+  width: inherit;
+  max-width: 100%;
+  height: auto;
+  margin: 1em auto;
+}
+
+.post-content a{
+  font-weight: bold;
+}
+
+.post-footer{
+	text-align: center;
+	padding: 2.5em 2em 0px;
+}
+
+.share {
+    float: left;
+}
+
+.post-tags {
+    float: right;
+}
+
+.f-1:before,
+.f-1:after {
+    content: "";
+    display: table;
+}
+
+.f-1:after {
+    clear: both;
+}
+
+.content hr {
+  border-right: 0px none;
+  border-width: 1px 0px 0px;
+  border-style: solid none none;
+  border-image: none;
+  margin: 2em auto;
+  width: 3rem;
+  border-color: #DDD -moz-use-text-color -moz-use-text-color;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+}
+
+#disqus_thread{
+  margin-top: 4em;
+}
+
+.up {
+  width: 16px;
+  height: 16px;
+  position: fixed;
+  bottom: 10%;
+  right: 5%;
+  display: none;
+  text-indent: -9999px;
+  background-color: #000;
+}
+
+.pagination{
+	text-align: center;
+}
+
+.pagination-older {
+  float: left;
+}
+
+.pagination-newer {
+  float: right;
+}
+
+.page-number{
+	color: #B3B3B3;
+}
+
+/* Basic Styles */
+
+p {
+	font-style: normal;
+	font-weight: 400;
+} 
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+
+/* Footer */
+
+.footer {
+	margin: 0px;
+	text-align: center;
+	padding-bottom: 2.5em;
+	font-size: 11px;
+}
+
+.footer-social{
+	font-size: 16px;
+  letter-spacing: 0.1em;
+	padding-bottom: 0.4em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
