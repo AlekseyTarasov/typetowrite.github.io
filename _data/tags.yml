@@ -1,0 +1,11 @@
+photo:
+  name: Photo
+
+talk:
+  name: Talk
+
+story:
+  name: Story
+
+hrstlv:
+  name: hrstlv
