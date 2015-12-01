@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-##Find me on:
+**Find me on:
 
 [Instagram](http://instagram.com/alexfello/) - 
