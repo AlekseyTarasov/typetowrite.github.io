@@ -20,6 +20,10 @@ comments: true
 	{% else %}
 	    {% assign tags_content = '' %}
 	{% endif %}
+	
+	{% assign author = site.data.authors[page.author] %}
+	
+	{% assign photo = site.data.photo[page.photo] %}
 
 	<header class="post-header">
 		<p class="post-title">{{ page.title }}</p>                
