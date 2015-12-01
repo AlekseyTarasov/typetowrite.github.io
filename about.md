@@ -5,4 +5,4 @@ title: About
 
 ##Find me on:
 
-["Instagram"](http://instagram.com/alexfello/) - 
+[Instagram](http://instagram.com/alexfello/) - 
