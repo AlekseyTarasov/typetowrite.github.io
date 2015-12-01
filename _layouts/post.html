@@ -38,8 +38,10 @@ comments: true
 
 	<footer class="post-footer">
 		<section class="f-1">
-			<span class="post-words">Words by <a href="{{ author.web }}" {{ author.name }}</a></span>
-       			<span class="post-photo">Photo by <a href="{{ photo.web }}" {{ photo.name }}</a></span>
+			{% if author %}
+				<span class="post-words">Words by <a href="{{ author.web }}">{{ author.name }}</a></span>
+			{% endif %}
+       			<span class="post-photo">Photo by <a href="{{ photo.web }}">{{ photo.name }}</a></span>
 		</section>
 		
 		<section class="f-2">
