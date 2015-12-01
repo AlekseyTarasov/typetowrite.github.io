@@ -193,14 +193,6 @@ overflow: hidden;
 	padding: 2.5em 2em 0px;
 }
 
-.share {
-    float: left;
-}
-
-.post-tags {
-    float: right;
-}
-
 .f-1:before,
 .f-1:after {
     content: "";
@@ -211,6 +203,31 @@ overflow: hidden;
     clear: both;
 }
 
+.post-words {
+    float: left;
+}
+
+.post-photo {
+    float: right;
+}
+
+.f-2:before,
+.f-2:after {
+    content: "";
+    display: table;
+}
+
+.f-2:after {
+    clear: both;
+}
+
+.share {
+    float: left;
+}
+
+.post-tags {
+    float: right;
+}
 .content hr {
   border-right: 0px none;
   border-width: 1px 0px 0px;
