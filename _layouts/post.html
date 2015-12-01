@@ -41,7 +41,9 @@ comments: true
 			{% if author %}
 				<span class="post-words">Words by <a href="{{ author.web }}">{{ author.name }}</a></span>
 			{% endif %}
-       			<span class="post-photo">Photo by <a href="{{ photo.web }}">{{ photo.name }}</a></span>
+			{% if photo %}
+       				<span class="post-photo">Photo by <a href="{{ photo.web }}">{{ photo.name }}</a></span>
+       			{% endif %}
 		</section>
 		
 		<section class="f-2">
