@@ -289,6 +289,12 @@ a:hover{
 	text-decoration: underline;
 }
 
+::selection {
+background: #f64662; /* Safari */
+}
+::-moz-selection {
+background: #f64662; /* Firefox */
+}
 
 /* Footer */
 
