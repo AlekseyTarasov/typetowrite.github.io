@@ -290,10 +290,10 @@ a:hover{
 }
 
 ::selection {
-background: #ef765f; /* Safari */
+background: #ffe894; /* Safari */
 }
 ::-moz-selection {
-background: #ef765f; /* Firefox */
+background: #ffe894; /* Firefox */
 }
 
 /* Footer */
