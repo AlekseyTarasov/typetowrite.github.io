@@ -64,7 +64,3 @@ tags: [photo, talk]
 Плыву по течению)
 
 ![photo kirill babii](https://dl.dropboxusercontent.com/u/33967130/typetowrite/babii/8.jpg)
-
-Текст: Алексей Чуприн
-Фото: Кирилл Бабий
-
