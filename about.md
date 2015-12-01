@@ -6,4 +6,4 @@ permalink: /about/
 
 Find me on:
 
-[Instagram](http://instagram.com/alexfello/) - 
+[Ello](https://ello.co/alekseytarasov) - [VK](https://vk.com/id328151768) - [Instagram](http://instagram.com/alexfello/) 
