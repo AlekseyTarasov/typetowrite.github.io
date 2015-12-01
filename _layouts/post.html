@@ -37,13 +37,15 @@ comments: true
 			<span class="post-words">Words by {{ tags_content }}</span>
        			<span class="post-photo">Photo by {{ tags_content }}</span>
 		</section>
-				<section class="f-1">
-            <section class="f-2">
-            	<span>Share:
-			<a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" title="Share on Twitter"onclick="sharePopup(this.href); return false;">Twitter</a>
-			<a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" title="Share on Twitter"onclick="sharePopup(this.href); return false;">Facebook</a>
-                </span>
-            </section>                       
+		
+		<section class="f-2">
+			<section class="post-share">
+		            	<span>Share:
+					<a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" title="Share on Twitter"onclick="sharePopup(this.href); return false;">Twitter</a>
+					<a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" title="Share on Twitter"onclick="sharePopup(this.href); return false;">Facebook</a>
+		                </span>
+			</section> 
+		</section>                       
        		<span class="post-tags"># {{ tags_content }}</span>
 		</section>
                         
