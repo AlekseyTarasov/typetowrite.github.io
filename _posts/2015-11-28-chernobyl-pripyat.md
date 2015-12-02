@@ -1,5 +1,5 @@
 ---
-title: "Припять, Чернобиль"
+title: "Припять, Чернобыль"
 date:   2015-11-28
 layout: post
 author: aleksey_tarasov
