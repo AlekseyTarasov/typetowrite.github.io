@@ -306,7 +306,7 @@ background: #ffe894; /* Firefox */
 }
 
 .feed{
-	font-size: 16px;
+  margin: 0px auto;
   width: 16px;
   height: 16px;
 }
