@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-soon
+I am a twenty four years old carpenter who lives in Ukraine. I try to design icons, handwriting logos and websites.
 
 If you want to chat or etc, please send me mail  
 
