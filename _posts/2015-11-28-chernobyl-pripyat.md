@@ -63,5 +63,3 @@ tags: [photo, pripyat, story]
 ![chernobyl](https://dl.dropboxusercontent.com/u/33967130/typetowrite/svema/0013.jpg)
 
 «Чертово колесо» - один из символов мертвого города.
-
-После написанного хочу выразить огромную благодарность моему старому другу [Олегу](https://vk.com/vershinin_oleg).
