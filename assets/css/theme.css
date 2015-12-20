@@ -229,17 +229,11 @@ overflow: hidden;
     float: right;
 }
 .content hr {
-  border-right: 0px none;
-  border-width: 1px 0px 0px;
-  border-style: solid none none;
-  border-image: none;
+  height: 1px;
+  border: none;
+  border-top: 1px solid #ddd;
   margin: 2em auto;
   width: 3rem;
-  border-color: #DDD -moz-use-text-color -moz-use-text-color;
-    -moz-border-top-colors: none;
-    -moz-border-right-colors: none;
-    -moz-border-bottom-colors: none;
-    -moz-border-left-colors: none;
 }
 
 #disqus_thread{
