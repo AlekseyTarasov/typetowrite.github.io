@@ -83,3 +83,18 @@ function sharePopup(e) {
     return this.hostname != window.location.hostname;
 }).attr('target', '_blank');
 </script>
+
+
+<!-- click random logo -->
+
+<script>
+$(".logo").click(function(){
+    imagePath = $(".logo").attr("src");
+    if(imagePath == "/assets/images/typewriter.png"){
+        $(".logo").attr("src", "http://behdasht.co/wp/imgs/right.gif");
+
+    }else{
+        $(".logo").attr("src", "/assets/images/typewriter.png");
+    }
+});
+</script>
