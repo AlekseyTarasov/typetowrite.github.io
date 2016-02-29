@@ -52,6 +52,7 @@ jQuery(document).ready(function($){
             event.preventDefault();
         $(this).removeClass('is-visible');
         $('.stickyanchor').removeClass('is-hide');
+        $('body').removeClass('overflow-hidden');
         }
         });
         //close popup when clicking the esc keyboard button
@@ -59,6 +60,7 @@ jQuery(document).ready(function($){
         if (event.which == '27') {
           $('.menu').removeClass('is-visible');
           $('.stickyanchor').removeClass('is-hide');
+          $('body').removeClass('overflow-hidden');
         }
         });
         });
