@@ -92,6 +92,7 @@ $(".logo").click(function(){
     imagePath = $("img").attr("src");
     if(imagePath == "/assets/images/typewriter.png"){
         $("img").attr("src", "/assets/images/dianamini.png");
+        $(".logo").attr("href", "{{ site.url }}");
 
     }else{
         $("img").attr("src", "/assets/images/typewriter.png");
