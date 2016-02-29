@@ -89,14 +89,13 @@ function sharePopup(e) {
 
 <script>
 $(".logo").click(function(){
-    imagePath = $("img").attr("src");
+    imagePath = $(".logo").attr("src");
     if(imagePath == "/assets/images/typewriter.png"){
-        $("img").attr("src", "/assets/images/dianamini.png");
-        $(".logo").attr("href", "#");
+        $(".logo").attr("src", "/assets/images/dianamini.png");
 
     }else{
-        $("img").attr("src", "/assets/images/typewriter.png");
-        $(".logo").attr("href", "{{ site.url }}");
+        $(".logo").attr("src", "/assets/images/typewriter.png");
+        $(".link").attr("href", "{{ site.url }}");
     }
 });
 </script>
