@@ -89,12 +89,12 @@ function sharePopup(e) {
 
 <script>
 $(".logo").click(function(){
-    imagePath = $(".logo").attr("src");
+    imagePath = $("img").attr("src");
     if(imagePath == "/assets/images/typewriter.png"){
-        $(".logo").attr("src", "/assets/images/dianamini.png");
+        $("img").attr("src", "/assets/images/dianamini.png");
 
     }else{
-        $(".logo").attr("src", "/assets/images/typewriter.png");
+        $("img").attr("src", "/assets/images/typewriter.png");
     }
 });
 </script>
