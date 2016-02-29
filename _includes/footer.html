@@ -92,11 +92,11 @@ $(".logo").click(function(){
     imagePath = $("img").attr("src");
     if(imagePath == "/assets/images/typewriter.png"){
         $("img").attr("src", "/assets/images/dianamini.png");
-        $(".logo").attr("href", "{{ site.url }}");
+        $(".logo").attr("href", "#");
 
     }else{
         $("img").attr("src", "/assets/images/typewriter.png");
-        $(".logo").attr("href", "#");
+        $(".logo").attr("href", "{{ site.url }}");
     }
 });
 </script>
