@@ -80,16 +80,12 @@
 		top: 0;
 		right: 0;
 
-		/* dimensions: 25px x 25px */
-		line-height: 25px;
-		width: 25px;
+  width: 30px;
+  height: 30px;
 
 		/* styling */
 		cursor: pointer;
 		text-align: center;
-		font-family: Arial, sans-serif;
-		background: #fff; /* Set the background in case it overlaps the content */
-		color: #000;
 	}
 
 .featherlight-close-icon::before,
