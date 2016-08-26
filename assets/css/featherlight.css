@@ -80,41 +80,41 @@
 		top: 0;
 		right: 0;
 
-  width: 30px;
-  height: 30px;
+		width: 30px;
+		height: 30px;
 
 		/* styling */
 		cursor: pointer;
 		text-align: center;
 	}
 
-.featherlight-close-icon::before,
-.featherlight-close-icon::after {
-  content: '';
-  position: absolute;
-  top: 12px;
-  width: 14px;
-  height: 3px;
-  background-color: #000;
-}
+	.featherlight-close-icon::before,
+	.featherlight-close-icon::after {
+	  content: '';
+	  position: absolute;
+	  top: 12px;
+	  width: 14px;
+	  height: 3px;
+	  background-color: #000;
+	}
 
-.featherlight-close-icon::before {
-  -webkit-transform: rotate(45deg);
-  -moz-transform: rotate(45deg);
-  -ms-transform: rotate(45deg);
-  -o-transform: rotate(45deg);
-  transform: rotate(45deg);
-  left: 8px;
-}
+	.featherlight-close-icon::before {
+	  -webkit-transform: rotate(45deg);
+	  -moz-transform: rotate(45deg);
+	  -ms-transform: rotate(45deg);
+	  -o-transform: rotate(45deg);
+	  transform: rotate(45deg);
+	  left: 8px;
+	}
 
-.featherlight-close-icon::after {
-  -webkit-transform: rotate(-45deg);
-  -moz-transform: rotate(-45deg);
-  -ms-transform: rotate(-45deg);
-  -o-transform: rotate(-45deg);
-  transform: rotate(-45deg);
-  right: 8px;
-}
+	.featherlight-close-icon::after {
+	  -webkit-transform: rotate(-45deg);
+	  -moz-transform: rotate(-45deg);
+	  -ms-transform: rotate(-45deg);
+	  -o-transform: rotate(-45deg);
+	  transform: rotate(-45deg);
+	  right: 8px;
+	}
 
 
 	.featherlight .featherlight-image {
