@@ -11,12 +11,12 @@ tags: [photo, pripyat, story]
 
 <!--more-->
 
-![chernobyl](https://dl.dropboxusercontent.com/u/33967130/typetowrite/svema/0010.jpg)
+![chernobyl](https://drive.google.com/uc?export=download&id=0B0NRqCiUriFKdk9sR1MzaVM3bHM)
 
 Отправка автобуса с туристами от киевского жд вокзала, около восьми утра . Далее 120км до КПП Дитятки, 
 небольшая проверка документов и мы в закрытой зоне. Первая остановка, двухэтажный детский сад, одна из немногих уцелевших построек закопанного в землю села Копачи.
 
-![chernobyl](https://dl.dropboxusercontent.com/u/33967130/typetowrite/svema/0003.jpg)
+![chernobyl](https://drive.google.com/uc?export=download&id=0B0NRqCiUriFKX2hLOFNrbUhKQU0)
 
 Прогнивший пол, разбросанные детские игрушки, капающая с крыши вода.
 
@@ -24,42 +24,42 @@ tags: [photo, pripyat, story]
 
 В конце дороги нас встречает КПП военного гарнизона с одним охранником. Заходим за ворота и идем прямиком к Дуге.
 
-![chernobyl](https://dl.dropboxusercontent.com/u/33967130/typetowrite/svema/0001.jpg)
+![chernobyl](https://drive.google.com/uc?export=download&id=0B0NRqCiUriFKUmZwR0lva2w0UWc)
 
 Антенна РЛС типа «Дуга» предназначена для обнаружения пусков межконтинентальных ракет. Дуга по сути была приемником, сам же передающий центр находился в Черниговской области. На строительство потратили семь миллиардов советских рублей, вдвое дороже, чем строительство Чернобыльской АЭС (по данным [Википедии](https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B3%D0%B0_%28%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D0%BB%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%29)).
 
-![chernobyl](https://dl.dropboxusercontent.com/u/33967130/typetowrite/svema/0002.jpg)
+![chernobyl](https://drive.google.com/uc?export=download&id=0B0NRqCiUriFKRVRfRi1zOGRhR1k)
 
 Длина антенны порядка 460 метров, высота мачт от 135 до 150 метров.
 
-![chernobyl](https://dl.dropboxusercontent.com/u/33967130/typetowrite/svema/0004.jpg)
+![chernobyl](https://drive.google.com/uc?export=download&id=0B0NRqCiUriFKZWVMZ0ZHeEdsLTA)
 
 Автобус направился к административному зданию ЧАЭС. Возле здания расположен мемориал, посвященный ликвидаторам аварии и символ мертвого города Припять - Прометей. Бронзовый памятник до аварии стоял у одноименного кинотеатра.
 
-![chernobyl](https://dl.dropboxusercontent.com/u/33967130/typetowrite/svema/0005.jpg)
+![chernobyl](https://drive.google.com/uc?export=download&id=0B0NRqCiUriFKTlhHQUVyLUVrXzQ)
 
 Чернобыльская АЭС со смотровой площадки. К сожалению, вентиляционную трубу второй очереди я не застал. Ее демонтировали в 2013 году.
 
 Покормив больших сомов пруда-охладителя, мы отправились в город Припять.
 
-![chernobyl](https://dl.dropboxusercontent.com/u/33967130/typetowrite/svema/0006.jpg)
+![chernobyl](https://drive.google.com/uc?export=download&id=0B0NRqCiUriFKM2h3TmdPTEhMdEk)
 
 Центральная часть города и "Готель Полiсся"
 
-![chernobyl](https://dl.dropboxusercontent.com/u/33967130/typetowrite/svema/0008.jpg)
+![chernobyl](https://drive.google.com/uc?export=download&id=0B0NRqCiUriFKMFNfTWk0aWNDc0E)
 
 Припятский житель Семен. Дальнейшая судьба неизвестна, так как были проблемы с лапой. 
 
-![chernobyl](https://dl.dropboxusercontent.com/u/33967130/typetowrite/svema/0009.jpg)
+![chernobyl](https://drive.google.com/uc?export=download&id=0B0NRqCiUriFKZTZrRTdHcjdCVEU)
 
 Вывеска кафе "Припять" на городской набережной. Над вывеской остались фрагменты витража, собранного поперечно из пластинок цветного стекла. Автор витража Виктор Блинов, член союза художников Украины.
 
 Фотографию к сожалению, засветил.
 
-![chernobyl](https://dl.dropboxusercontent.com/u/33967130/typetowrite/svema/0011.jpg)
+![chernobyl](https://drive.google.com/uc?export=download&id=0B0NRqCiUriFKUmlyVnNYbWd5aWM)
 
 Дворец культуры "Энергетик"
 
-![chernobyl](https://dl.dropboxusercontent.com/u/33967130/typetowrite/svema/0013.jpg)
+![chernobyl](https://drive.google.com/uc?export=download&id=0B0NRqCiUriFKV29odkN6MkdpMEE)
 
 «Чертово колесо» - один из символов мертвого города.
