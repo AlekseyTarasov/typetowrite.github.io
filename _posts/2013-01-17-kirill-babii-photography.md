@@ -2,6 +2,7 @@
 title: "Kirill Babii Photography"
 date:   2013-01-17
 layout: post
+comments: true
 author: aleksey_tarasov
 photo: kirill_babii
 tags: [photo, talk]
