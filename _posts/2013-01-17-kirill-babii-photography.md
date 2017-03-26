@@ -11,13 +11,13 @@ tags: [photo, talk]
 
 <!--more-->
 
-![photo kirill babii](https://dl.dropboxusercontent.com/u/33967130/typetowrite/babii/1.jpg)
+![photo kirill babii](https://drive.google.com/uc?export=download&id=0B0NRqCiUriFKWWJjMVkweGF3Qkk)
 
 **Привет! Расскажи немного о себе, почему именно фотография?**
 
 Привет! Бородатый студент, человек настроения, море, музыка.
 
-![photo kirill babii](https://dl.dropboxusercontent.com/u/33967130/typetowrite/babii/2.jpg)
+![photo kirill babii](https://drive.google.com/uc?export=download&id=0B0NRqCiUriFKSms4a1pZajItM1U)
 
 **Когда ты взял первый раз в руки фотоаппарат, с чего все началось?**
 
@@ -30,13 +30,13 @@ tags: [photo, talk]
 
 Самое любимое в фотографии - человек-природа.
 
-![photo kirill babii](https://dl.dropboxusercontent.com/u/33967130/typetowrite/babii/3.jpg)
+![photo kirill babii](https://drive.google.com/uc?export=download&id=0B0NRqCiUriFKZ2dzSUNQTGlVRnc)
 
 **Есть ли какие-то любимые работы, возможно, других художников?**
 
 Есть человек, который повлиял на меня своим творчеством очень сильно. В чем-то я похож на него своими фотографиями. Это Денис Ильин. Он фотографирует жизнь.
 
-![photo kirill babii](https://dl.dropboxusercontent.com/u/33967130/typetowrite/babii/4.jpg)
+![photo kirill babii](https://drive.google.com/uc?export=download&id=0B0NRqCiUriFKVXFYY0l5dndMSlE)
 
 **Как относишься к старым методам фотографии (пленочные фотокамеры, проявка в темных комнатах с красным освещением)?**
 
@@ -47,9 +47,9 @@ tags: [photo, talk]
 
 Баланс между человеком и природой. Но природа все-таки ближе.
 
-![photo kirill babii](https://dl.dropboxusercontent.com/u/33967130/typetowrite/babii/5.jpg)
+![photo kirill babii](https://drive.google.com/uc?export=download&id=0B0NRqCiUriFKN1ZmcXN5WjZVckk)
 
-![photo kirill babii](https://dl.dropboxusercontent.com/u/33967130/typetowrite/babii/6.jpg)
+![photo kirill babii](https://drive.google.com/uc?export=download&id=0B0NRqCiUriFKX1NGV0FWRFRtN2c)
 
 **Видел у тебя альбом посвященный морю, а также много комментариев, спрашивающих о твоей технике фотографирования.**
 
@@ -57,10 +57,10 @@ tags: [photo, talk]
 
 Я всегда отвечаю вопросом: "А как бы вам хотелось, чтобы я ответил?"
 
-![photo kirill babii](https://dl.dropboxusercontent.com/u/33967130/typetowrite/babii/7.jpg)
+![photo kirill babii](https://drive.google.com/uc?export=download&id=0B0NRqCiUriFKSGl2QWxaaElUZXM)
 
 **Какие планы на будущее?**
 
 Плыву по течению)
 
-![photo kirill babii](https://dl.dropboxusercontent.com/u/33967130/typetowrite/babii/8.jpg)
+![photo kirill babii](https://drive.google.com/uc?export=download&id=0B0NRqCiUriFKS0hhU1I5Q2NQblU)
